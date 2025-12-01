@@ -163,11 +163,3 @@ API for real-time predictions
 
 Deploy model using Flask/FastAPI
 
-📝 License
-
-This project is open-source. You may modify and distribute it freely.
-
-🎯 Author
-
-Kavin Prakash S
-BSc Computer Technology – AI/ML Enthusiast
